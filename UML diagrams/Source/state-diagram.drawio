@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-09-10T04:06:02.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="MoBhNm0uwxR2kcXGRNUH" version="21.7.4" type="github">
+  <diagram name="Page-1" id="IfAMR9PieBRF9Usqu3ln">
+    <mxGraphModel dx="1114" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-1" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-2" value="" style="endArrow=open;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;labelBackgroundColor=none;strokeWidth=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="110" y="124.66" as="sourcePoint" />
+            <mxPoint x="220" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-3" value="sender dropped&lt;br&gt;letter&amp;nbsp;in&lt;br&gt;letterbox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="109" y="71" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-4" value="flag changing to&lt;br&gt;up position" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="234" y="105" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-6" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="360" y="124.66" as="sourcePoint" />
+            <mxPoint x="480" y="125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-7" value="receiver picked up&lt;br&gt;letter&amp;nbsp;in&amp;nbsp;letterbox" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="354" y="81" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-8" value="flag changing to&lt;br&gt;down position" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="495" y="105" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-9" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="630" y="124.66" as="sourcePoint" />
+            <mxPoint x="690" y="124.66" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="csj0xn_oaI_uwDEVnqY8-10" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
+          <mxGeometry x="700" y="110" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
